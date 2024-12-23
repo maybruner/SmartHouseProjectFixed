@@ -1,0 +1,12 @@
+Pages I need to create:
+
+1.Homepage- contains all the room that has been created + the option of create new room ("+").
+2.Adding room window- with all details of the new room: Roomtype, name, color and "create" button.
+3.Room profile- with the name and type of the room, list of products that added to the room and also buttn of create products in the room.
+4.Adding products to the room (at the same route of the room profile).
+
+Components I need to create:
+
+1.AddRoom- Sleepingroom, Bathroom, Kitchen.
+2.AddMachine (In each room). (Child component(props))
+3.AddProducts- מזגן, מנורה, מערכת סטריאו, דוד שמש
